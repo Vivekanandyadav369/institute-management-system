@@ -1,8 +1,0 @@
-python -m venv venv    "Virtual environment creation"
-
-venv\Scripts\activate   "Activating virtual environment"
-
-
-
-database user name is: vk2401202_db_user
-database password is: OgfWz29JWbl5bR93
